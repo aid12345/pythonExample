@@ -6,4 +6,4 @@ app_name='main'
 urlpatterns=[
     path('',index),
     path('blog/',blog),
-]
+] 
